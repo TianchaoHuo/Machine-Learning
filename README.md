@@ -24,9 +24,9 @@ Here are some of the most important supervised learning algorithms:
        K-Nearest Neighbors
        Linear Regression
        Logistic Regression
-      	Support Vector Machines (SVMs)
-      	Decision Trees and Random Forests
-      	Neural Network
+       Support Vector Machines (SVMs)
+       Decision Trees and Random Forests
+       Neural Network
 Here are some of the most important unsupervised learning algorithms:
 
        Clustering:
