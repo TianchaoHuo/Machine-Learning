@@ -21,24 +21,25 @@ Files in this Repo will be uploaded in upcoming days.
 Generally speaking, machine learning can be divided into two aspects, supervised and unsupervised learning. The term “supervised learning” is that we feed the training algorithm with given data sets that have label. In the contrast, the term “unsupervised learning” is that we feed the training algorithm with given data sets that have no label.
 Here are some of the most important supervised learning algorithms:
 
-       K-Nearest Neighbors
-       Linear Regression
-       Logistic Regression
-       Support Vector Machines (SVMs)
-       Decision Trees and Random Forests
-       Neural Network
+       K-Nearest Neighbors 
+       Linear Regression
+       Logistic Regression
+       Support Vector Machines (SVMs)
+       Decision Trees and Random Forests
+       Neural Network
+
 Here are some of the most important unsupervised learning algorithms:
 
-       Clustering:
-        K-means
-        Hierarchical cluster analysis (HCA)
-        Expectation maximization
-       Visualization and dimensionality reduction
-        Principal Component Analysis (PCA)
-        Kernel PCA
-        Locally-linear Embedding (LLE)
-        t-distributed stochastic neighbor embedding 
-       Association rule learning
+       Clustering:
+          K-means
+          Hierarchical cluster analysis (HCA)
+          Expectation maximization
+       Visualization and dimensionality reduction:
+          Principal Component Analysis (PCA)
+          Kernel PCA
+          Locally-linear Embedding (LLE)
+          t-distributed stochastic neighbor embedding 
+       Association rule learning
     
 In this summary, due to the machine learning course content that concerning the limited topics, I only focus on the highlighting topics above.
 
