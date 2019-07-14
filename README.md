@@ -6,10 +6,10 @@ This is summary of Machine Learning course. I am actually not a quit professiona
 
 
 ## Acknowledgement
-Course Link:https://study.163.com/courses-search?keyword=%E5%90%B4%E6%81%A9%E8%BE%BE\<br>
-fengdu78: https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes\<br>
-COMP8600: https://machlearn.gitlab.io/sml2019/\<br>
-shuhuai008: https://space.bilibili.com/97068901?from=search&seid=16937971174063892443\<br>
+Course Link:https://study.163.com/courses-search?keyword=%E5%90%B4%E6%81%A9%E8%BE%BE \<br>
+fengdu78: https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes \<br>
+COMP8600: https://machlearn.gitlab.io/sml2019/ \<br>
+shuhuai008: https://space.bilibili.com/97068901?from=search&seid=16937971174063892443 \<br>
  
 ## Files
 
